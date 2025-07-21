@@ -1,0 +1,14 @@
+names:
+- '25'
+- female
+- male
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: gender-jnyyf
+  url: https://universe.roboflow.com/ppp-xyisq/gender-jnyyf/dataset/2
+  version: 2
+  workspace: ppp-xyisq
+test: ../test/images
+train: ../train/images
+val: ../valid/images
